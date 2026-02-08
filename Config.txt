@@ -1,5 +1,5 @@
 version=1
 logic=base
-timeout=60
+timeout=120
 retry=2
-endpoint=/api/v2
+endpoint=/api/v2-forenhancment
