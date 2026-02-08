@@ -1,5 +1,6 @@
 version=1
 logic=base-changes
 timeout=60
+interntionally added same to have conflicts
 retry=6
-endpoint=/api/v2
+endpoint=/api/v2-forenhancement
