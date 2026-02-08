@@ -1,0 +1,5 @@
+version=1
+logic=base
+timeout=60
+retry=2
+endpoint=/api/v2
