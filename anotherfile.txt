@@ -1,0 +1,10 @@
+its randome
+
+
+file generated 
+
+just to learn git merge concepts
+
+
+
+you are with merge
