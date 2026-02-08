@@ -1,5 +1,5 @@
 version=1
-logic=base
+logic=base-changes
 timeout=60
-retry=2
+retry=6
 endpoint=/api/v2
